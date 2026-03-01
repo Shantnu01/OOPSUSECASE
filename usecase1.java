@@ -3,3 +3,4 @@ public class usecase1 {
         System.out.println("OOPS");
     }
 }//sad
+// fuyfu
