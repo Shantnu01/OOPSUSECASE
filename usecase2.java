@@ -23,4 +23,4 @@ public class usecase2 {
         // Line 7
         System.out.println("   *****  " + "   *****  " + "   **     " + "   ****** ");
     }
-}//asd
+}//asdcscscsdcsdsc
